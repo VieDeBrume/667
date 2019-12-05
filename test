@@ -1,0 +1,11 @@
+#test code
+int main()
+{
+char L_nom[10] = {0};
+int L_age = 0;
+
+printf("quel age avez-vous ?");
+scanf("%d", L_age);
+
+return 0;
+}
